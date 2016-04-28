@@ -29806,7 +29806,7 @@
 	     * `replace` and `split`
 	     *
 	     * The wrapper methods that support shortcut fusion are:
-	     * `at`, `compact`, `drop`, `dropRight`, `dropWhile`, `filter`, `find`,
+	     * `at`, `compact`, `drop`, `dropRight`, `dropWhile`, `filter`, `dd`,
 	     * `findLast`, `head`, `initial`, `last`, `map`, `reject`, `reverse`, `slice`,
 	     * `tail`, `take`, `takeRight`, `takeRightWhile`, `takeWhile`, and `toArray`
 	     *
